@@ -2,4 +2,4 @@
 
 A sample app created by following Michael Hartl's "Ruby on Rails tutorial" (chapter 3 => ?) (https://www.railstutorial.org/) which was recommended in The Odin Project (theodinproject.com) curriculum.
 
-This is my third or fourth simple project in Rails and I feel much more comfortable. So far I've learnt the basics of MVC, cookies, API's and the RESTful convention(or architecture?). 
+This is my third or fourth simple project in Rails and I feel much more comfortable. So far I've learnt the basics of MVC, cookies, API's and the RESTful convention(or architecture?).
