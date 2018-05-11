@@ -3,3 +3,5 @@
 A sample app created by following Michael Hartl's "Ruby on Rails tutorial" (chapter 3 => ?) (https://www.railstutorial.org/) which was recommended in The Odin Project (theodinproject.com) curriculum.
 
 This is my third or fourth simple project in Rails and I feel much more comfortable. So far I've learnt the basics of MVC, cookies, API's and the RESTful convention(or architecture?).
+
+edit1: I've leant about tests, layouts and partials. I feel comfortable creating new partials and following the DRY convention. I've learnt how layouts affect the page. I understood what SASS is (It was interesting to me that SASS was made by Ruby developers, but later on developers of other languages liked it and started using it) and how preprocessors work. I'm not exactly sure how the asset pipeline works (I got the part about putting everything together to bring GET requrests to a minimum and loading the page faster) but I'll think about that as 'Rails Magic' for now.
